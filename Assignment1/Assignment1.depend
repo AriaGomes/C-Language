@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1569729510 source:c:\users\aria gomes\desktop\assignment1\helper.c
+	"helper.h"
+
+1569727458 c:\users\aria gomes\desktop\assignment1\helper.h
+	<stdio.h>
+
+1569809546 source:c:\users\aria gomes\desktop\assignment1\assignment1.c
+	<stdio.h>
+	<stdlib.h>
+	"helper.h"
+
+1569831285 source:c:\users\aria gomes\documents\c language\assignment1\assignment1.c
+	<stdio.h>
+	<stdlib.h>
+	"helper.h"
+
+1569727458 c:\users\aria gomes\documents\c language\assignment1\helper.h
+	<stdio.h>
+
+1569729510 source:c:\users\aria gomes\documents\c language\assignment1\helper.c
+	"helper.h"
+

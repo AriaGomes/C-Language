@@ -1,0 +1,10 @@
+﻿  main.c
+C:\Users\Aria Gomes\Documents\C Language\Example IO\Example IO\main.c(24,8): warning C4476: 'scanf' : unknown type field character ' ' in format specifier
+C:\Users\Aria Gomes\Documents\C Language\Example IO\Example IO\main.c(24,19): warning C4474: 'scanf' : too many arguments passed for format string
+C:\Users\Aria Gomes\Documents\C Language\Example IO\Example IO\main.c(24,19): message : placeholders and their parameters expect 0 variadic arguments, but 1 were provided
+C:\Users\Aria Gomes\Documents\C Language\Example IO\Example IO\main.c(11,1): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(208): message : see declaration of 'fopen'
+C:\Users\Aria Gomes\Documents\C Language\Example IO\Example IO\main.c(21,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
+C:\Users\Aria Gomes\Documents\C Language\Example IO\Example IO\main.c(24,1): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Program Files (x86)\Windows Kits\10\Include\10.0.18362.0\ucrt\stdio.h(1274): message : see declaration of 'scanf'
